@@ -2,7 +2,7 @@
 
 
 def add(a, b):
-    return a + b  # Introduced a bug: should be addition, but subtraction is used
+    return a - b  # Introduced a bug: should be addition, but subtraction is used
 
 
 if __name__ == "__main__":

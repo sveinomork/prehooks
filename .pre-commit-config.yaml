@@ -20,4 +20,4 @@ repos:
         entry: poetry run pytest
         language: python
         types: [python]
-        stages: [commit]
+        stages: [push]
